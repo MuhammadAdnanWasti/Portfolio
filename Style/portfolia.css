@@ -227,7 +227,7 @@ footer{
     background-color: rgb(242, 232, 219);
     display: flex;
     gap: 40px;
-    padding: 0px 120px;
+    padding: 25px 120px;
 }
 .fcol{
     width: 40%;
